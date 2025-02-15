@@ -1,0 +1,19 @@
+{{ define "body-class" }}
+    article-page
+{{ end }}
+
+<article class="main-article">
+  <header class="article-header">
+    <div class="article-details">
+      <div class="article-title-wrapper">
+        <h2 class="article-title">
+          <a href="{{ .RelPermalink }}"> {{- .Title -}} </a>
+        </h2>
+      </div>
+    </div>
+  </header>
+
+  {{ partial "article/components/content" . }} {{ partial "article/components/footer" . }} {{ if or
+  .Params.math .Site.Params.article.math }} {{ partialCached "article/components/math.html" . }} {{
+  end }}
+</article>

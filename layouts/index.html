@@ -1,0 +1,10 @@
+{{ define "main" }}
+    <!-- Display the content of _index.zh-cn.md using article partial -->
+    {{ partial "home" . }}
+
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
