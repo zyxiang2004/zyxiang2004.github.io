@@ -43,20 +43,7 @@
 
     <div class="site-meta">
       <h1 class="site-name"><a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a></h1>
-      <div class="personal-info">
-        <p><a href="mailto:zeyuxiang@foxmail.com">zeyuxiang@foxmail.com</a></p>
-        <p>河南科技大学 信息工程学院</p>
-        <p>计算机与科学技术专业本科生</p>
-        <p>均分90.6（国家一流本科专业）</p>
-        <p>研究兴趣：人工智能，计算机视觉等</p>
-        <p></p>
-        <p>中共预备党员</p>
-        <p>CCF学生会员 IEEE学生会员</p>
-        <p>ACM会员 网易云音乐人</p>
-        <p></p>
-        <p>🏠 湖北 咸宁</p>
-        <p>📍 河南 洛阳</p>
-      </div>
+      {{ partial "sidebar/personal-info" . }}
     </div>
   </header>
 

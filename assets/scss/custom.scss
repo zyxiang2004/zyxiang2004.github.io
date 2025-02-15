@@ -39,4 +39,28 @@ input:hover,
       text-decoration: underline;
     }
   }
+
+  .address-container {
+    margin: 0;
+    padding: 0;
+  }
+
+  .address-item {
+    display: grid;
+    grid-template-columns: 24px 1fr;
+    align-items: center;
+    gap: 8px;
+    margin: 4px 0;
+  }
+
+  .emoji {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .location {
+    display: flex;
+    align-items: center;
+  }
 }
