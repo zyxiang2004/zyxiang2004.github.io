@@ -3,7 +3,7 @@
 body,
 html,
 .article-content img {
-    cursor: url(../mouse/default.png), auto !important;
+  cursor: url(../mouse/default.png), auto !important;
 }
 
 // pointer光标图片
@@ -11,7 +11,7 @@ a:hover,
 button:hover,
 .copyCodeButton:hover,
 #dark-mode-toggle {
-    cursor: url(../mouse/hand.png), auto;
+  cursor: url(../mouse/hand.png), auto;
 }
 
 // text光标图片
@@ -21,5 +21,21 @@ input:hover,
 .article-content span,
 .article-content li,
 .article-content p {
-    cursor: url(../mouse/text.png), auto;
+  cursor: url(../mouse/text.png), auto;
+}
+
+.personal-info {
+  font-size: 0.9em;
+  line-height: 1.4;
+
+  p {
+    margin: 0.3rem 0;
+  }
+
+  a {
+    color: var(--accent-color);
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
