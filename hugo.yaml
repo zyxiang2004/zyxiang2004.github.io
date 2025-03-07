@@ -185,7 +185,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -208,7 +208,7 @@ menu:
 
         - identifier: NetEase Cloud Music
           name: NetEase Cloud Music
-          url:
+          url: https://music.163.com/#/artist?id=97131291
           params:
               icon: wyy
 
