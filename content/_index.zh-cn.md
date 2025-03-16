@@ -69,11 +69,11 @@ title: 你好
   <div class='patent-id'>登记号：2024SR0395721</div>
 
 ### 2. 全国大学生节能减排社会实践与科技竞赛
-- 一种土壤检测取样器（新型实用专利、第一作者） <a href="img/13 一种土壤检测取样器-证书.png" class="glightbox proof-img"></a>
+- 一种土壤检测取样器（新型实用专利、第一作者） <a href="img/13 一种土壤检测取样器-证书.png" class="glightbox proof-img">【点击查看】</a>
   <div class='patent-id'>专利号：ZL 2023 2 3047535.8</div>
-- 基于大数据与机器学习的智能多维生产监控与溯源平台（软件著作权、第一作者） <a href="img/14 基于大数据.png" class="glightbox proof-img"></a>
+- 基于大数据与机器学习的智能多维生产监控与溯源平台（软件著作权、第一作者） <a href="img/14 基于大数据.png" class="glightbox proof-img">【点击查看】</a>
   <div class='patent-id'>登记号：2024SR0386236</div>
-- 基于深度学习优化的土壤健康分析平台（软件著作权、第一） <a href="img/15 基于深度学习优化的土壤健康分析平台.png" class="glightbox proof-img"></a>
+- 基于深度学习优化的土壤健康分析平台（软件著作权、第一） <a href="img/15 基于深度学习优化的土壤健康分析平台.png" class="glightbox proof-img">【点击查看】</a>
   <div class='patent-id'>登记号：2024SR0137033</div>
 
 -----------------
