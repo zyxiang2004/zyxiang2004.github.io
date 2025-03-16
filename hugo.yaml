@@ -10,16 +10,16 @@ DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 languages:
-    en:
-        languageName: English
-        title: Zeyu Xiang
-        weight: 1
-        params:
-            sidebar:
-                subtitle: Example description
+    # en:
+    #     languageName: English
+    #     title: Zeyu Xiang
+    #     weight: 1
+    #     params:
+    #         sidebar:
+    #             subtitle: Example description
     zh-cn:
         languageName: 中文
         title: 项泽宇
@@ -30,8 +30,8 @@ languages:
 
 services:
     # Change it to your Disqus shortname before using
-    disqus:
-        shortname: "hugo-theme-stack"
+    # disqus:
+    #     shortname: "hugo-theme-stack"
     # GA Tracking ID
     googleAnalytics:
         id:
@@ -65,7 +65,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
