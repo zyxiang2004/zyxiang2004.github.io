@@ -78,3 +78,8 @@ lastmod: '2025-03-07'
 
 ![img](/img/my-college-life/11.png)
 
+
+
+<div style="text-align: right">
+<a href="/">【返回主页】</a>
+</div>
