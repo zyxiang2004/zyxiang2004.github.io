@@ -80,6 +80,6 @@ lastmod: '2025-03-07'
 
 
 
-<div style="text-align: right">
+<div>
 <a href="/">【返回主页】</a>
 </div>
