@@ -1,8 +1,7 @@
 <style>
     @font-face {
         font-family: '思源黑体';
-        src: url({{ (resources.Get "font/SourceHanSansSC-Regular-2.otf").Permalink
-    }}) format('truetype');
+        src: url({{ (resources.Get "font/SourceHanSansSC-Regular-2.otf").RelPermalink }}) format('truetype');
   }
 
     :root {
@@ -113,7 +112,7 @@
 
 <script src={{ (resources.Get "background/particles.min.js").Permalink }}></script>
 <script>
-  particlesJS.load('particles-js', {{ (resources.Get "background/particlesjs-config.json").Permalink }}, function() {
+  particlesJS.load('particles-js', {{ (resources.Get "background/particlesjs-config.json").RelPermalink }}, function() {
     console.log('particles.js loaded - callback');
   });
 </script>
