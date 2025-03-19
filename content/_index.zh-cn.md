@@ -79,7 +79,9 @@ title: 你好
 -----------------
 
 ## 主要获奖：
-- 2024年度国家励志奖学金（TOP 5%）
+- 2024年度国家励志奖学金（TOP 5%） <a href="img/补充 2024 国家励志.jpg" class="glightbox proof-img">
+  【点击查看】
+</a>
 - 2023年度国家励志奖学金（TOP 5%） <a href="img/16 23年国励志.jpg" class="glightbox proof-img">
   【点击查看】
 </a>
