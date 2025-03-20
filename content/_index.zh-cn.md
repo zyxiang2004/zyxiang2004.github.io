@@ -94,9 +94,10 @@ title: 你好
 - 2023年全国大学生英语竞赛（NECCS）全国二等奖 <a href="img/18 大英赛国家二等.jpg" class="glightbox proof-img">
   【点击查看】
 </a>
-- Kaggle RSNA 2024 Lumbar Spine Degenerative Classification 铜牌（TOP 6.4%） <a href="img/19 RSNA 2024 Lumbar Spine Degenerative Classification.png" class="glightbox proof-img">
+- Kaggle RSNA 2024 Lumbar Spine Degenerative Classification 铜牌（TOP 6.4%） <span style='display: inline-block; width: 10em;'></span>
+  <a href="img/19 RSNA 2024 Lumbar Spine Degenerative Classification.png" class="glightbox proof-img">
   【点击查看】
-</a>
+  </a>
 - 2023年全国大学生数学建模竞赛 省级一等奖 <a href="img/20 2023数学建模省一.jpg" class="glightbox proof-img">
   【点击查看】
 </a>
