@@ -9,7 +9,7 @@ links:
     description: 使用sovits项目实现的AI唱歌
     website: /p/bv1hv411l7rj/
   - title: "深海少女 / covered by #kzn【翻调】"
-    description: 使用sovits项目实现的AI唱歌
+    description: 使用cevio虚拟歌姬实现编曲翻唱
     website: /p/bv1pt4y1n7dd/
   - title: "花海 （Piano.ver）"
     description: 我使用钢琴演奏的《花海》
