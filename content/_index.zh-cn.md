@@ -20,7 +20,9 @@ title: 你好
 - Research on Medical Image Data Enhancement based on Variational Autoencoders（CCF-C会议，一作/通讯，接受待出版） <a href="img/2 Research on Medical Image Data Enhancement based on Variational Autoencoders.png" class="glightbox proof-img">
   【点击查看】
 </a>
-- 基于深度生成模型的医学影像数据扩充综述（一作/通讯，在投）
+- 基于深度生成模型的医学影像数据扩充综述（一作/通讯，在投） <a href="https://chinaxiv.org/abs/202503.00181" class="proof-img" target="_blank">
+  【点击查看】
+</a>
 
 #### 专利成果：
 - 一种艺术风格化图像处理方法（发明专利，第一发明人，初审合格） <a href="img/3 一种艺术风格化图像处理方法.jpg" class="glightbox proof-img">
