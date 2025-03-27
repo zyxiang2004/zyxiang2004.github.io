@@ -14,6 +14,9 @@ links:
   - title: "花海 （Piano.ver）"
     description: 我使用钢琴演奏的《花海》
     website: /p/bv1ey411s75u/
+  - title: "[Classic] 甜甜花甜不过芭芭拉～"
+    description:  使用mmd制作的动画舞蹈
+    website: /p/BV1xqfQY1E2R/
 
 menu:
     main:
