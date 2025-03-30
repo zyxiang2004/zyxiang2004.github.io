@@ -65,7 +65,7 @@ title: 你好
   <div class='patent-id'>登记号：2024SR0689206</div>
 - 基于云计算的跨领域数据集成和分析平台（软件著作权，第一作者，返修中）
   <div class='patent-id'>流水号：2024R11L0711884</div>
-- 基于深度预测建模算法的患者健康状况实时监测与数据分析平台（软件著作权，第二作者） <a href="img/12 证书.png" class="glightbox proof-img">
+- 基于深度预测建模算法的患者健康状况实时监测与数据分析平台（软件著作权，第二作者） <span style='display: inline-block; width: 10em;'></span> <a href="img/12 证书.png" class="glightbox proof-img">
   【点击查看】
 </a>
   <div class='patent-id'>登记号：2024SR0395721</div>
