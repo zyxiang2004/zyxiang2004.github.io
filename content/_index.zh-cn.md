@@ -69,6 +69,10 @@ title: 你好
   【点击查看】
 </a>
   <div class='patent-id'>登记号：2024SR0395721</div>
+- 基于深度学习的个性化训练健康数据分析平台（软件著作权，第三作者） <a href="img/补充 个性训练.png" class="glightbox proof-img">
+  【点击查看】
+</a>
+  <div class='patent-id'>登记号：2025SR0481161</div>
 
 ### 2. 全国大学生节能减排社会实践与科技竞赛
 - 一种土壤检测取样器（新型实用专利、第一作者） <a href="img/13 一种土壤检测取样器-证书.png" class="glightbox proof-img">【点击查看】</a>
