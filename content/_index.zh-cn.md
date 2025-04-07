@@ -128,7 +128,10 @@ title: 你好
 ------------
 
 ## 校园经历
-1. 自2023年7月至今，共青团中央 线上项目实习生  <a href="img/补充 共青团中央实习证明.jpg" class="glightbox proof-img">
+1. 2024年7月 大学生暑期“三下乡”社会实践 两项 <a href="img/补充 2024年7月 大学生暑期“三下乡”社会实践 两项.jpg" class="glightbox proof-img">
+  【点击查看】
+</a>
+2. 自2023年7月至今，共青团中央 线上项目实习生 <a href="img/补充 共青团中央实习证明.jpg" class="glightbox proof-img">
   【点击查看】
 </a>
 1. 自2022年10月至今，河南科技大学青年传媒联盟 核心成员
