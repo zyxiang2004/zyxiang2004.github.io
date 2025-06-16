@@ -13,6 +13,7 @@ title: 你好
 ## 项目经历：
 ### 1. 基于深度生成模型的医学影像数据扩充研究 国家级大学生创新训练项目（项目号：202410464018），主持人
 
+
 #### 论文成果：
 - VSS-SpatioNet: A Multiscale Feature Fusion Network for Multimodal Image Integrations（独立作者，JCR一区，2024中科院二区，已出版） <a href="https://www.nature.com/articles/s41598-025-93143-w" class="proof-img" target="_blank">
   【点击查看】
