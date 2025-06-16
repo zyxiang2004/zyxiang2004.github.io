@@ -17,7 +17,7 @@ title: 你好
 - VSS-SpatioNet: A Multiscale Feature Fusion Network for Multimodal Image Integrations（独立作者，JCR一区，2024中科院二区，已出版） <a href="https://www.nature.com/articles/s41598-025-93143-w" class="proof-img" target="_blank">
   【点击查看】
 </a>
-- Research on Medical Image Data Enhancement based on Variational Autoencoders（CCF-C会议，一作/通讯，接受待出版） <a href="img/2 Research on Medical Image Data Enhancement based on Variational Autoencoders.png" class="glightbox proof-img">
+- Research on Medical Image Data Enhancement based on Variational Autoencoders（CCF-C会议，一作/通讯，已出版） <a href="https://ieeexplore.ieee.org/document/11028675" class="proof-img" target="_blank">
   【点击查看】
 </a>
 - 基于深度生成模型的医学影像数据扩充综述（一作/通讯，在投） <a href="https://chinaxiv.org/abs/202503.00181" class="proof-img" target="_blank">
