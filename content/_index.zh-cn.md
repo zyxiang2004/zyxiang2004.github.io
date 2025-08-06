@@ -96,7 +96,7 @@ title: 你好
 - 2023年度国家励志奖学金（TOP 5%） <a href="img/16 23年国励志.jpg" class="glightbox proof-img">
   【点击查看】
 </a>
-- 2024年度中国国际大学生创新大赛 国家级铜奖  <a href="img/17 国铜互联网加.png" class="glightbox proof-img">
+- 2024年度中国国际大学生创新大赛 国家级铜奖  <a href="img/17 国铜互联网.png" class="glightbox proof-img">
   【点击查看】
 </a>
 - 2023年全国大学生节能减排社会实践与科技竞赛 全国三等奖 <a href="img/补充 节能减排国3.jpg" class="glightbox proof-img">
